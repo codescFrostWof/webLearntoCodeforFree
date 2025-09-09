@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://k.top4top.io/p_3534z7v0j0.png" alt="Learn to Code Banner" width="600"/>
-</p>
 
 ---
 
@@ -85,21 +81,3 @@ Cocok untuk pemula maupun tingkat lanjut 🚀
 📌 Belajar blockchain & smart contract.
 </details>
 
----
-
-#### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg" width="20"/> Contact
-
-<p align="center">
-  <a href="https://t.me/viaownercyberlinuxid">
-    <img src="https://img.shields.io/badge/Owner-@viaownercyberlinuxid-black?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://t.me/CyberLinuxID">
-    <img src="https://img.shields.io/badge/Grup-CyberLinuxID-black?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/CyberLinux1d">
-    <img src="https://img.shields.io/badge/GitHub-CyberLinux1d-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://9o1kc.mssg.me/">
-    <img src="https://img.shields.io/badge/Link-Lengkap-black?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-</p>
